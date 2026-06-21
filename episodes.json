@@ -4711,6 +4711,16 @@
                         "name": "[DCAN] Detective Conan -  1201 [Aboody-Subs] [1080p] [63FB7C5C].mp4",
                         "size": "306.83MB",
                         "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 1204 [DCANSubs] (1080p) [85B3DA9E].mp4",
+                        "size": "382.02MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 1204 [DCANSubs] (720p) [0C915EFB].mp4",
+                        "size": "176.87MB",
+                        "type": "file"
                     }
                 ]
             },
@@ -4718,7 +4728,13 @@
                 "name": "SoftSub",
                 "size": "—",
                 "type": "folder",
-                "contents": []
+                "contents": [
+                    {
+                        "name": "[DCAN] Detective Conan - 1204 [DCANSubs] (Hi10 1080p) [19C3DF06].mkv",
+                        "size": "518.82MB",
+                        "type": "file"
+                    }
+                ]
             }
         ]
     },
