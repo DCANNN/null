@@ -1248,7 +1248,208 @@
                         "name": "HardSub",
                         "size": "—",
                         "type": "folder",
-                        "contents": []
+                        "contents": [
+                            {
+                                "name": "[DCAN] Detective Conan - 001 [DCANSubs] (1080p) [BDB4C689].mp4",
+                                "size": "846.42MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 001 [DCANSubs] (720p) [FB072DEE].mp4",
+                                "size": "396.77MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 002 [DCANSubs] (1080p) [AE017B6B].mp4",
+                                "size": "928.69MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 002 [DCANSubs] (720p) [534F5365].mp4",
+                                "size": "402.70MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 003 [DCANSubs] (1080p) [DA4328CA].mp4",
+                                "size": "857.84MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 003 [DCANSubs] (720p) [4BE33AE6].mp4",
+                                "size": "378.08MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 004 [DCANSubs] (1080p) [045CF1E0].mp4",
+                                "size": "807.41MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 004 [DCANSubs] (720p) [493742C3].mp4",
+                                "size": "391.07MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 005 [DCANSubs] (1080p) [E64149FB].mp4",
+                                "size": "733.69MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 005 [DCANSubs] (720p) [164973BC].mp4",
+                                "size": "360.62MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 006 [DCANSubs] (1080p) [E64149FB].mp4",
+                                "size": "768.59MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 006 [DCANSubs] (720p) [164973BC].mp4",
+                                "size": "434.44MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 007 [DCANSubs] (1080p) [E64149FB].mp4",
+                                "size": "935.36MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 007 [DCANSubs] (720p) [164973BC].mp4",
+                                "size": "483.42MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 008 [DCANSubs] (BDRip 1080p) [D25DCFB6].mp4",
+                                "size": "1.32GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 008 [DCANSubs] (BDRip 720p) [4573A3BF].mp4",
+                                "size": "470.77MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 009 [DCANSubs] (BDRip 1080p).mp4",
+                                "size": "1.62GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 009 [DCANSubs] (BDRip 720p).mp4",
+                                "size": "565.23MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 010 [DCANSubs] (BDRip 1080p) v2 [BB353DC5].mp4",
+                                "size": "1.25GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 010 [DCANSubs] (BDRip 720p) v2 [0356CC51].mp4",
+                                "size": "402.82MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 011 [DCANSubs] (BDRip 1080p) [A56E1A4A].mp4",
+                                "size": "2.16GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 011 [DCANSubs] (BDRip 720p) [D9380598].mp4",
+                                "size": "776.63MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 012 [DCANSubs] (BDRip 720p) [754F6CC1].mp4",
+                                "size": "517.21MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 012 v2 [DCANSubs] (BDRip 1080p) [B327B9BF].mp4",
+                                "size": "1.37GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 013 [DCANSubs] (BDRip 1080p) [3F6666BC].mp4",
+                                "size": "1.26GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 013 [DCANSubs] (BDRip 720p) [3D625304].mp4",
+                                "size": "453.41MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 015 [DCANSubs] (BDRip 1080p) [5D0C681B].mp4",
+                                "size": "1.46GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 015 [DCANSubs] (BDRip 720p) [363EB38F].mp4",
+                                "size": "479.10MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 017 [DCANSubs] (BDRip 1080p) [4E38401D].mp4",
+                                "size": "1.53GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 017 [DCANSubs] (BDRip 720p) [BF52F266].mp4",
+                                "size": "534.74MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 020 [DCANSubs] (BDRip 1080p) [B4C6FA2B].mp4",
+                                "size": "680.40MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 020 [DCANSubs] (BDRip 720p) [7AF00871].mp4",
+                                "size": "339.83MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 022 [DCANSubs] (BDRip 1080p) [B2BC02B0].mp4",
+                                "size": "825.11MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 022 [DCANSubs] (BDRip 720p) [9018B9B2].mp4",
+                                "size": "376.43MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 023 [DCANSubs] (BDRip 1080p) [2E3052B8].mp4",
+                                "size": "763.23MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 023 [DCANSubs] (BDRip 720p) [37540AF8].mp4",
+                                "size": "359.46MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 027 [DCANSubs] (BDRip 1080p) [01B64503].mp4",
+                                "size": "828.75MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 027 [DCANSubs] (BDRip 720p) [EA4B211F].mp4",
+                                "size": "373.11MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 028 [DCANSubs] (BDRip 1080p) [A79B521E].mp4",
+                                "size": "671.35MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 028 [DCANSubs] (BDRip 720p) [9FB04AB1].mp4",
+                                "size": "309.28MB",
+                                "type": "file"
+                            }
+                        ]
                     },
                     {
                         "name": "SoftSub",
@@ -4554,7 +4755,692 @@
     },
     {
         "category": "(201-300)",
-        "items": []
+        "items": [
+            {
+                "name": "Remastered",
+                "size": "—",
+                "type": "folder",
+                "contents": [
+                    {
+                        "name": "SoftSub",
+                        "size": "—",
+                        "type": "folder",
+                        "contents": [
+                            {
+                                "name": "[DCAN] Detective Conan - 0212 [DCANSubs] (Hi10 1080p) [C7259142].mkv",
+                                "size": "1.36GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 0213 [DCANSubs] (Hi10 1080p) [14EF1724].mkv",
+                                "size": "1.20GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 0222 [DCANSubs] (Hi10 1080p) [FA47908A].mkv",
+                                "size": "1.00GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 0223 [DCANSubs] (Hi10 1080p) [73FF0173].mkv",
+                                "size": "1.08GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 0224 [DCANSubs] (Hi10 1080p) [690D5AA6].mkv",
+                                "size": "1.09GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 0230 [DCANSubs] (Hi10 1080p) [F9771C8B].mkv",
+                                "size": "1.23GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 0231 [DCANSubs] (Hi10 1080p) [20E6E161].mkv",
+                                "size": "1.26GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 0238 [DCANSubs] (Hi10 1080p) [864D9C32].mkv",
+                                "size": "1.02GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 0239 [DCANSubs] (Hi10 1080p) [275A636A].mkv",
+                                "size": "1.06GB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 0258 [DCANSubs] (Hi10 1080p) [D5A34008].mkv",
+                                "size": "776.25MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 0259 [DCANSubs] (Hi10 1080p) [A9F6378B].mkv",
+                                "size": "759.23MB",
+                                "type": "file"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0205 [EVA] (1080p WEB) [54087B7A].mp4",
+                        "size": "733.45MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0206 [EVA] (1080p WEB) [060336A5].mp4",
+                        "size": "695.16MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0212 [DCANSubs] (1080p WEB) [D7726A9D].mp4",
+                        "size": "902.90MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0212 [DCANSubs] (720p WEB) [EB1DEFFC].mp4",
+                        "size": "428.27MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0213 [DCANSubs] (1080p WEB) [49A506F8].mp4",
+                        "size": "847.37MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0213 [DCANSubs] (720p WEB) [A0AD1D42].mp4",
+                        "size": "377.65MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0222 [DCANSubs] (1080p WEB) [4F9D0428].mp4",
+                        "size": "705.05MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0222 [DCANSubs] (720p WEB) [43DC5565].mp4",
+                        "size": "313.74MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0223 [DCANSubs] (1080p WEB) [69DE7B0F].mp4",
+                        "size": "757.76MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0223 [DCANSubs] (720p WEB) [CE82C8B9].mp4",
+                        "size": "335.00MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0224 [DCANSubs] (1080p WEB) [FE72A505].mp4",
+                        "size": "773.26MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0224 [DCANSubs] (720p WEB) [0FFC9E75].mp4",
+                        "size": "343.13MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0230 [DCANSubs] (1080p WEB) [22701A97].mp4",
+                        "size": "918.75MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0230 [DCANSubs] (720p WEB) [EE3FA295].mp4",
+                        "size": "404.14MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0231 [DCANSubs] (1080p WEB) [135A7406].mp4",
+                        "size": "943.95MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0231 [DCANSubs] (720p WEB) [B061DF6A].mp4",
+                        "size": "412.54MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0238 [DCANSubs] (1080p WEB) [1DECE522].mp4",
+                        "size": "719.41MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0238 [DCANSubs] (720p WEB) [5A5264E0].mp4",
+                        "size": "313.21MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0239 [DCANSubs] (1080p WEB) [E386252D].mp4",
+                        "size": "758.88MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0239 [DCANSubs] (720p WEB) [15412A02].mp4",
+                        "size": "331.17MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0258 [DCANSubs] (1080p WEB) [14D9FBAA].mp4",
+                        "size": "694.51MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0258 [DCANSubs] (720p WEB) [B0EC4646].mp4",
+                        "size": "336.53MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0259 [DCANSubs] (1080p WEB) [36E5D28B].mp4",
+                        "size": "674.31MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0259 [DCANSubs] (720p WEB) [95A35346].mp4",
+                        "size": "324.44MB",
+                        "type": "file"
+                    }
+                ]
+            },
+            {
+                "name": "[DCAN] Detective Conan 200-201 [HD][6C2C5FE7].mp4",
+                "size": "158.42MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 201 202 [HD].mp4",
+                "size": "246.23MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 203 [HD][EEF3456F].mp4",
+                "size": "96.44MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 204 [HD][ACCED193].mp4",
+                "size": "101.97MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 205 [HD][E027BBA0].mp4",
+                "size": "103.11MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 206 [HD][EFC5A85A].mp4",
+                "size": "99.31MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 207 [HD][E0EDE838].mp4",
+                "size": "80.19MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 208 [HD][9F5E214C].mp4",
+                "size": "286.01MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 209 [HD][CE476101].mp4",
+                "size": "90.34MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 210 [HD][7F2DA303].mp4",
+                "size": "86.98MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 211 [HD][B70AEF59].mp4",
+                "size": "98.43MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 212 [HD][3C4C5302].mp4",
+                "size": "160.26MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 213 [HD][81F5163B].mp4",
+                "size": "145.14MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 214 [HD][2DCAF497].mp4",
+                "size": "77.41MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 215 [HD][4E0C27B3].mp4",
+                "size": "90.37MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 216 [HD][246BCF0D].mp4",
+                "size": "83.73MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 217v1 [HD][ECB802F7].mp4",
+                "size": "116.07MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 218 [HD] [C7574B4A].mp4",
+                "size": "215.55MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 219 [HD][9420A779].mp4",
+                "size": "313.49MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 220 [HD][EF8B1906].mp4",
+                "size": "78.16MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 221 [HD][58765D4F].mp4",
+                "size": "76.61MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 222 [HD][E8AF92E8].mp4",
+                "size": "70.75MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 223 [HD][29F23EBD].mp4",
+                "size": "82.84MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 224 [HD][95C3F559].mp4",
+                "size": "76.72MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 225 [HD][665DA982].mp4",
+                "size": "111.01MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 226 [HD][0C5160FE].mp4",
+                "size": "123.51MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 227 [HD][336E4A70].mp4",
+                "size": "116.72MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 228 [HD][5DA7D6A3].mp4",
+                "size": "86.59MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 229 [HD][41DACDE5].mp4",
+                "size": "80.80MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 230 (832x624-AAC) [DCAN] [8F85F3FB].mp4",
+                "size": "306.77MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 231 (832x624-AAC) [DCAN] [D53B65C1].mp4",
+                "size": "301.64MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 232 [HD][37A15B0F].mp4",
+                "size": "74.16MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 233 [HD][4B54C76C].mp4",
+                "size": "81.13MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 234 [HD][D5A59A00].mp4",
+                "size": "87.30MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 235 [HD][DC04A35D].mp4",
+                "size": "74.30MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 236 [HD][BF65A8C6].mp4",
+                "size": "97.44MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 237 [HD][1E4371B2].mp4",
+                "size": "99.77MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 238 [AnimeDown][SD].mp4",
+                "size": "42.76MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 238-239 [HD][982C847D].mp4",
+                "size": "168.55MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 239 [AnimeDown][SD].mp4",
+                "size": "45.17MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 240 [HD][C8264F47].mp4",
+                "size": "138.93MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 241 [HD][9CF7D793].mp4",
+                "size": "152.74MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 242 [HD][29819DFE].mp4",
+                "size": "168.77MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 243 [HD][F8A60437].mp4",
+                "size": "151.07MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 244 [HD][38DBB912].mp4",
+                "size": "89.45MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 245 [HD][7F024064].mp4",
+                "size": "116.88MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 246 [HD][C1BF21AD].mp4",
+                "size": "77.07MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 247 [HD][1F11C6E5].mp4",
+                "size": "55.99MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 248 [HD][35673F8A].mp4",
+                "size": "113.93MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 249 [HD][CA6CB0BF].mp4",
+                "size": "216.10MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 250 [HD][FEA5DE40].mp4",
+                "size": "199.11MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 251 [HD][914CC19A].mp4",
+                "size": "93.22MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 252 [HD][81648379].mp4",
+                "size": "130.44MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 253 [HD][4C585062].mp4",
+                "size": "95.08MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 254 [HD][37A72112].mp4",
+                "size": "88.69MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 255 [HD][5DCEAB00].mp4",
+                "size": "135.62MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 256 [HD][A9F3949C].mp4",
+                "size": "123.86MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 257 [HD][BB5B82D7].mp4",
+                "size": "97.30MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 258 [HD][785CC4D0].mp4",
+                "size": "145.46MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 259 [HD][6CEE2758].mp4",
+                "size": "133.96MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 260 [HD][A3C38BEC].mp4",
+                "size": "98.99MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 261 [AnimeDown][SD].mp4",
+                "size": "44.39MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 261-262 [HD][00C835CB].mp4",
+                "size": "166.99MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 262 [AnimeDown][SD].mp4",
+                "size": "40.47MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 263 [HD][4B07D3B4].mp4",
+                "size": "418.94MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 264 [HD][01888F7B].mp4",
+                "size": "74.47MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 265 [HD][497D204F].mp4",
+                "size": "80.24MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 266 [HD][25FB7650].mp4",
+                "size": "170.46MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 267 [HD][540D5845].mp4",
+                "size": "128.40MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 268 [HD][BCD813C8].mp4",
+                "size": "142.15MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 269 [HD][4B857FF6].mp4",
+                "size": "172.18MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 270 [HD][34B8A066].mp4",
+                "size": "195.95MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 271 [HD][D768BE5E].mp4",
+                "size": "122.37MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 272 [HD][A5DB2282].mp4",
+                "size": "120.50MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 273 [HD][14EDA8AB].mp4",
+                "size": "151.01MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 274 [HD][F1C8F467].mp4",
+                "size": "110.03MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 275 [HD][F73F3727].mp4",
+                "size": "59.38MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 276 [HD][67B80559].mp4",
+                "size": "104.60MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 277 [HD][1C00BE67].mp4",
+                "size": "194.88MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 278 [HD][BD8654FC].mp4",
+                "size": "199.44MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 279 [HD][421FC022].mp4",
+                "size": "113.91MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 280 [HD][619805F0].mp4",
+                "size": "114.18MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 281 [HD][30DD7AD7].mp4",
+                "size": "89.94MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 282 [AnimeDown][SD].mp4",
+                "size": "40.45MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 282-283 [HD][B65A4E63].mp4",
+                "size": "157.61MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 283 [AnimeDown][SD].mp4",
+                "size": "43.20MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 284-285 [HD][FE1A31C7].mp4",
+                "size": "135.22MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 286 [HD][ECB82BFD].mp4",
+                "size": "106.49MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 287 [HD][29B9CF58].mp4",
+                "size": "99.48MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 288 [HD][45CEDC17].mp4",
+                "size": "98.57MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 289 [HD][6C7ACF0C].mp4",
+                "size": "120.71MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 290 [HD][7F889D6A].mp4",
+                "size": "112.96MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 291-293 [HD][3F40302C].mp4",
+                "size": "349.54MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 294-295 [HD][07203AF9].mp4",
+                "size": "152.70MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 296 [HD][CB2C54E7].mp4",
+                "size": "63.41MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 297 [HD][C6BC51AE].mp4",
+                "size": "83.16MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 298 [HD][27A62BC1].mp4",
+                "size": "82.95MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 299 [HD][A22266F2].mp4",
+                "size": "95.11MB",
+                "type": "file"
+            },
+            {
+                "name": "[DCAN] Detective Conan 300 [HD][1464DCCE].mp4",
+                "size": "90.36MB",
+                "type": "file"
+            }
+        ]
     },
     {
         "category": "(301-400)",
@@ -4563,7 +5449,55 @@
                 "name": "Remastered",
                 "size": "—",
                 "type": "folder",
-                "contents": []
+                "contents": [
+                    {
+                        "name": "SoftSub",
+                        "size": "—",
+                        "type": "folder",
+                        "contents": [
+                            {
+                                "name": "[DCAN] Detective Conan - 0340 [DCANSubs] (Hi10 1080p) [1C71C715].mkv",
+                                "size": "572.43MB",
+                                "type": "file"
+                            },
+                            {
+                                "name": "[DCAN] Detective Conan - 0341 [DCANSubs] (Hi10 1080p) [B963242A].mkv",
+                                "size": "646.80MB",
+                                "type": "file"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0333 [Megane Sub] (1080p BDRip) [FA72B350].mp4",
+                        "size": "430.92MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0334 [Megane Sub] (1080p BDRip) [E6B70FC4].mp4",
+                        "size": "420.72MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0340 [DCANSubs] (1080p) [944028F7].mp4",
+                        "size": "399.45MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0340 [DCANSubs] (720p) [D8D0A0C3].mp4",
+                        "size": "188.72MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0341 [DCANSubs] (1080p) [66BBF973].mp4",
+                        "size": "433.36MB",
+                        "type": "file"
+                    },
+                    {
+                        "name": "[DCAN] Detective Conan - 0341 [DCANSubs] (720p) [F275293D].mp4",
+                        "size": "202.19MB",
+                        "type": "file"
+                    }
+                ]
             },
             {
                 "name": "Detective Conan 305 [HD][848C7A14].mp4",
